@@ -1,91 +1,64 @@
 # Hi, I'm Zakhele Gamede
 
-**Senior AI Software Engineer** focused on building production-ready AI, data, and automation systems that solve real business problems.
+**Manager, Business Transformation · AI Lab at CrossCountry Consulting**, building dependable AI products and the cloud foundations behind them.
 
-Based in Johannesburg, South Africa, I work across the full lifecycle of intelligent systems: problem framing, data pipelines, backend services, LLM workflows, evaluation, cloud deployment, and governed delivery.
+Based in Johannesburg, South Africa, I work across architecture and hands-on engineering: data pipelines, model orchestration, Python services, modern web applications, and secure cloud delivery.
 
-[Portfolio](https://www.zakhelegamede.co.za) • [Email](mailto:gamedevoxzakhele@gmail.com)
-
-## About Me
-
-- 8+ years of experience across AI engineering, data platforms, analytics, and automation
-- Strong hands-on delivery background in enterprise and consulting environments
-- Experienced in RAG systems, LLM orchestration, MLOps-style evaluation, and cloud-native deployment
-- Comfortable translating business requirements into scalable, measurable, production systems
-
-## Core Stack
-
-### AI and LLM Engineering
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Workflow_Orchestration-1C3C3C?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG_Apps-4B5563?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-Agent_Workflows-111827?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Production_Systems-0F766E?style=for-the-badge)
-![LLMOps](https://img.shields.io/badge/LLMOps-Evaluation_&_Monitoring-7C3AED?style=for-the-badge)
-
-### Data and Backend
-![SQL](https://img.shields.io/badge/SQL-Data_Modeling-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-Backend_Services-0B7285?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Workflow_Systems-2F855A?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Frontend_Integration-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Vector and Retrieval
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-0EA5E9?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-Retrieval-DC2626?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Semantic_Search-4F46E5?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-Knowledge_Retrieval-059669?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-Postgres_Vectors-334155?style=for-the-badge)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-Enterprise_Search-0078D4?style=for-the-badge)
-
-### Cloud and Delivery
-![Azure](https://img.shields.io/badge/Azure-Cloud_Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-LLM_Services-2563EB?style=for-the-badge)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-Serverless_APIs-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-Data_Pipelines-0F6CBD?style=for-the-badge)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-ML_Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerised_Apps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[Portfolio](https://www.zakhelegamede.co.za) · [Email](mailto:gamedevoxzakhele@gmail.com)
 
 ## What I Work On
 
-- Production AI applications and intelligent business workflows
-- Retrieval-Augmented Generation systems and enterprise knowledge tools
-- AI orchestration frameworks and multi-step agent workflows
-- Data engineering pipelines, analytics platforms, and backend services
-- AI evaluation, observability, governance, and secure deployment patterns
+- **AI product architecture:** agent workflows, retrieval, model evaluation, human review, and traceable outputs grounded in reliable data.
+- **Cloud platforms and identity:** Azure-native delivery, managed identities, secure data access, infrastructure as code, and environment promotion.
+- **Full-stack delivery:** Python services and modern web applications with CI/CD, operational telemetry, and production support.
 
-## Current Focus
+## Selected Use Cases
 
-- Advanced LLM systems and agentic workflows
-- Stronger evaluation and guardrail frameworks for production AI
-- Better architecture patterns for reliable AI products
-- Practical AI systems with clear business value
+Examples of business workflows I have helped improve, without internal product names or proprietary details:
 
-## Experience Snapshot
+- **Human-reviewed financial review:** AI-assisted review of financial documents and transcripts, with structured questions and summaries and people responsible for decisions. Built with FastAPI, React, Azure AI Foundry, and Microsoft Graph.
+- **Treasury cash-flow visibility:** a dashboard and self-service data intake workflow bringing multiple outflow sources into a traceable forecast. Built with Snowflake, Python, TypeScript, and Azure.
+- **Reliable foundations for AI products:** clearer architecture boundaries, event-driven audit and telemetry, secure workload identity, and reusable cloud infrastructure. Built with Python, PostgreSQL, Bicep, and Azure DevOps.
+- **Applied AI and data engineering:** cloud-hosted AI services, retrieval systems, workflow APIs, model evaluation, and analytics pipelines. Technologies include RAG, FastAPI, AWS SageMaker, and Azure.
 
-- **Senior AI Software Engineer, Klipboard**  
-  Building Azure-based AI, analytics, and intelligent automation services with Python APIs, RAG pipelines, telemetry, evaluation, and secure enterprise integrations.
+## Independent Product Work
 
-- **Senior AI Software Engineer, Boxfusion**  
-  Delivered enterprise AI advisory and automation platforms using LangChain, LlamaIndex, CrewAI, vector databases, and cloud AI services across regulated environments.
+**Quantum Shelf** is my personal product platform for experiments and useful software, bringing applications, games, and labs together with product access and permissions managed independently from sign-in.
 
-- **Data and AI Tech Lead, Boxfusion**  
-  Led the design and hands-on implementation of modern data platforms, ETL pipelines, automation services, and CI/CD-enabled cloud delivery.
+These projects are independent of my consulting work and are at different stages of development:
+
+| Product | Focus |
+| --- | --- |
+| **QueueFlow** | Queue management for organising work items and keeping operational tasks moving. |
+| **House Stock** | Household inventory to make everyday home stock easier to track. |
+| **CaseDesk Live** | An interactive investigation experience where players work a case and a live audience contributes leads and votes on next steps. |
+| **Orchestrator SDK** | An experimental React SDK for contextual in-app guidance, connecting semantic actions to navigation and an early natural-language planner. |
+
+## Core Technologies
+
+- **AI and backend:** Python, FastAPI, RAG, model orchestration and evaluation, Azure AI Foundry, AWS SageMaker
+- **Data:** SQL, PostgreSQL, Snowflake, data pipelines, analytics
+- **Frontend:** React, TypeScript
+- **Cloud and delivery:** Azure, managed identities, Microsoft Graph, Bicep, Azure DevOps, CI/CD, audit and telemetry
+
+## Experience
+
+| Period | Organisation | Role |
+| --- | --- | --- |
+| Apr 2026 – Present | **CrossCountry Consulting** | Manager, Business Transformation · AI Lab |
+| Sep 2025 – Apr 2026 | **Klipboard** | Senior AI Software Engineer |
+| Apr 2021 – Aug 2025 | **Boxfusion · Shesha** | Senior AI Software Engineer · Data & AI Tech Lead · Senior Data Analyst |
+
+At CrossCountry Consulting, I lead hands-on architecture and engineering for internal AI products and shared delivery foundations. At Klipboard, I built cloud-native AI and data services, workflow APIs, and evaluation and telemetry capabilities. At Boxfusion / Shesha, I progressed through data analytics, data and AI leadership, and enterprise AI engineering roles.
 
 ## Certifications
 
 - Microsoft Certified: Azure Data Engineer Associate
 - Microsoft Certified: Azure AI Engineer Associate
 
-## Open To Collaborate On
+## Get in Touch
 
-- AI engineering projects
-- RAG and enterprise search solutions
-- Data platforms and analytics systems
-- Workflow automation and internal tooling
-- Applied GenAI products with real-world impact
+For AI platform, cloud engineering, and product conversations:
 
-## Reach Me
-
-- Email: [gamedevoxzakhele@gmail.com](mailto:gamedevoxzakhele@gmail.com)
-- Website: [zakhelegamede.co.za](https://www.zakhelegamede.co.za)
+- [gamedevoxzakhele@gmail.com](mailto:gamedevoxzakhele@gmail.com)
+- [zakhelegamede.co.za](https://www.zakhelegamede.co.za)
