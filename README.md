@@ -1,64 +1,95 @@
-# Hi, I'm Zakhele Gamede
+<a href="https://zakhelegamede.co.za">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="I build AI systems that show their work. Zakhele Gamede, AI platform engineer in Johannesburg.">
+  </picture>
+</a>
 
-**Manager, Business Transformation · AI Lab at CrossCountry Consulting**, building dependable AI products and the cloud foundations behind them.
+<a href="https://zakhelegamede.co.za"><img src="assets/btn-site.svg" height="34" alt="zakhelegamede.co.za"></a>&nbsp;<a href="https://zakhelegamede.co.za/#ask"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-ask-dark.svg"><img src="assets/btn-ask-light.svg" height="34" alt="Ask the portfolio"></picture></a>&nbsp;<a href="mailto:hello@zakhelegamede.co.za"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="34" alt="hello@zakhelegamede.co.za"></picture></a>
 
-Based in Johannesburg, South Africa, I work across architecture and hands-on engineering: data pipelines, model orchestration, Python services, modern web applications, and secure cloud delivery.
+I design and build secure, human-centred AI systems and the cloud foundations behind them, from data pipelines and model orchestration to the products people use every day.
 
-[Portfolio](https://www.zakhelegamede.co.za) · [Email](mailto:gamedevoxzakhele@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" width="100%" alt="profile.yaml. role: Manager, AI Lab at CrossCountry Consulting. focus: RAG, model evaluation, cloud platforms. stack: Python, FastAPI, TypeScript, Azure, Postgres. building: Quantum Shelf (personal). open to: senior AI platform roles, technical conversations.">
+</picture>
 
-## What I Work On
+<br><br>
 
-- **AI product architecture:** agent workflows, retrieval, model evaluation, human review, and traceable outputs grounded in reliable data.
-- **Cloud platforms and identity:** Azure-native delivery, managed identities, secure data access, infrastructure as code, and environment promotion.
-- **Full-stack delivery:** Python services and modern web applications with CI/CD, operational telemetry, and production support.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-ask-dark.svg">
+  <img src="assets/h-ask-light.svg" width="100%" alt="/ask: Ask the portfolio">
+</picture>
 
-## Selected Use Cases
+<a href="https://zakhelegamede.co.za/#ask"><img src="assets/ask-preview.svg" width="100%" alt="Preview of the portfolio assistant: a grounded answer citing its source, a declined question about a client, and the trace with retrieval scores and policy version."></a>
 
-Examples of business workflows I have helped improve, without internal product names or proprietary details:
+A RAG assistant on my site that answers only from my documents, cites every sentence, declines with a recorded reason, and shows the trace behind each answer. [Try it on zakhelegamede.co.za](https://zakhelegamede.co.za/#ask)
 
-- **Human-reviewed financial review:** AI-assisted review of financial documents and transcripts, with structured questions and summaries and people responsible for decisions. Built with FastAPI, React, Azure AI Foundry, and Microsoft Graph.
-- **Treasury cash-flow visibility:** a dashboard and self-service data intake workflow bringing multiple outflow sources into a traceable forecast. Built with Snowflake, Python, TypeScript, and Azure.
-- **Reliable foundations for AI products:** clearer architecture boundaries, event-driven audit and telemetry, secure workload identity, and reusable cloud infrastructure. Built with Python, PostgreSQL, Bicep, and Azure DevOps.
-- **Applied AI and data engineering:** cloud-hosted AI services, retrieval systems, workflow APIs, model evaluation, and analytics pipelines. Technologies include RAG, FastAPI, AWS SageMaker, and Azure.
+<br>
 
-## Independent Product Work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg">
+  <img src="assets/h-work-light.svg" width="100%" alt="/work: Selected client work">
+</picture>
 
-**Quantum Shelf** is my personal product platform for experiments and useful software, bringing applications, games, and labs together with product access and permissions managed independently from sign-in.
+Described without internal product names or proprietary details.
 
-These projects are independent of my consulting work and are at different stages of development:
-
-| Product | Focus |
+| Problem | Stack |
 | --- | --- |
-| **QueueFlow** | Queue management for organising work items and keeping operational tasks moving. |
-| **House Stock** | Household inventory to make everyday home stock easier to track. |
-| **CaseDesk Live** | An interactive investigation experience where players work a case and a live audience contributes leads and votes on next steps. |
-| **Orchestrator SDK** | An experimental React SDK for contextual in-app guidance, connecting semantic actions to navigation and an early natural-language planner. |
+| `W-01` **Human-reviewed financial review**<br>AI-assisted review of financial documents and transcripts; people stay responsible for decisions. | `FastAPI` `React` `Azure AI Foundry` `Microsoft Graph` |
+| `W-02` **Treasury cash-flow visibility**<br>Multiple outflow sources brought into a traceable forecast with useful planning horizons. | `Snowflake` `Python` `TypeScript` `Azure` |
+| `W-03` **Reliable foundations for AI products**<br>Architecture boundaries, event-driven audit and telemetry, secure workload identity. | `Python` `PostgreSQL` `Bicep` `Azure DevOps` |
+| `W-04` **Applied AI and data engineering**<br>AI services, retrieval systems, workflow APIs, model evaluation, analytics pipelines. | `RAG` `FastAPI` `AWS SageMaker` `Azure` |
 
-## Core Technologies
+<br>
 
-- **AI and backend:** Python, FastAPI, RAG, model orchestration and evaluation, Azure AI Foundry, AWS SageMaker
-- **Data:** SQL, PostgreSQL, Snowflake, data pipelines, analytics
-- **Frontend:** React, TypeScript
-- **Cloud and delivery:** Azure, managed identities, Microsoft Graph, Bicep, Azure DevOps, CI/CD, audit and telemetry
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-areas-dark.svg">
+  <img src="assets/h-areas-light.svg" width="100%" alt="/areas: Problems I work on">
+</picture>
 
-## Experience
+- **AI platform engineering:** shared foundations that AI products are built on, with clear architecture boundaries and reusable cloud infrastructure.
+- **Production-grade RAG and agent workflows:** retrieval, model evaluation, and answers you can trace back to their sources.
+- **Workflow automation and human-reviewed AI:** the system prepares the work, and people stay responsible for decisions.
+- **Cloud foundations, identity, telemetry, and delivery:** managed identities, secure data access, infrastructure as code, and CI/CD.
 
-| Period | Organisation | Role |
-| --- | --- | --- |
-| Apr 2026 – Present | **CrossCountry Consulting** | Manager, Business Transformation · AI Lab |
-| Sep 2025 – Apr 2026 | **Klipboard** | Senior AI Software Engineer |
-| Apr 2021 – Aug 2025 | **Boxfusion · Shesha** | Senior AI Software Engineer · Data & AI Tech Lead · Senior Data Analyst |
+<br>
 
-At CrossCountry Consulting, I lead hands-on architecture and engineering for internal AI products and shared delivery foundations. At Klipboard, I built cloud-native AI and data services, workflow APIs, and evaluation and telemetry capabilities. At Boxfusion / Shesha, I progressed through data analytics, data and AI leadership, and enterprise AI engineering roles.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-products-dark.svg">
+  <img src="assets/h-products-light.svg" width="100%" alt="/products: Things I build on my own time">
+</picture>
 
-## Certifications
+<a href="https://quantum-ops-shelf-web.onrender.com"><img src="assets/quantum-shelf.svg" width="100%" alt="Quantum Shelf: a platform shell for applications, games, and labs. Open Quantum Shelf."></a>
 
-- Microsoft Certified: Azure Data Engineer Associate
-- Microsoft Certified: Azure AI Engineer Associate
+Personal experiments built on my own time, kept separate from my day job, and at different stages of development: **QueueFlow**, **House Stock**, **CaseDesk Live**, and the **Orchestrator SDK**.
 
-## Get in Touch
+<br>
 
-For AI platform, cloud engineering, and product conversations:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg">
+  <img src="assets/h-stack-light.svg" width="100%" alt="/stack: What I reach for">
+</picture>
 
-- [gamedevoxzakhele@gmail.com](mailto:gamedevoxzakhele@gmail.com)
-- [zakhelegamede.co.za](https://www.zakhelegamede.co.za)
+**AI and backend:** `Python` `FastAPI` `RAG` `pgvector` `Azure AI Foundry` `AWS SageMaker`<br>
+**Data:** `PostgreSQL` `Snowflake` `SQL` `pipelines`<br>
+**Cloud:** `Azure` `Bicep` `managed identity` `Render`<br>
+**Web and delivery:** `TypeScript` `React` `GitHub Actions` `Azure DevOps`
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg">
+  <img src="assets/h-contact-light.svg" width="100%" alt="/contact: Building something that has to be right?">
+</picture>
+
+For senior AI platform roles, technical conversations, or carefully scoped collaboration: [hello@zakhelegamede.co.za](mailto:hello@zakhelegamede.co.za) or [gamedevoxzakhele@gmail.com](mailto:gamedevoxzakhele@gmail.com).
+
+<br>
+
+<a href="https://zakhelegamede.co.za">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+    <img src="assets/footer-light.svg" width="100%" alt="zakhelegamede.co.za">
+  </picture>
+</a>
